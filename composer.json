@@ -1,0 +1,31 @@
+{
+    "name": "vespolina/vespolina-sandbox-composer",
+    "type": "group-of-deps",
+    "description": "Vespolina Bundles",
+    "keywords": ["vespolina"],
+    "homepage": "http://vespolina-project.org",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vespolina Team",
+            "email": "stof@notk.org"
+        }
+    ],
+    "require": {
+        "vespolina/store-bundle": "*",
+        "vespolina/checkout-bundle": "*",
+        "vespolina/product-bundle": "*",
+        "vespolina/cart-bundle": "*",
+        "vespolina/inventory-bundle": "*",
+        "vespolina/taxonomy-bundle": "*",
+        "vespolina/order-bundle": "*",
+        "vespolina/customer-bundle": "*",
+        "vespolina/pricing-bundle": "*",
+        "vespolina/fulfillment-bundle": "*",
+        "vespolina/merchandise-bundle": "*",
+        "vespolina/taxation-bundle": "*",
+        "vespolina/workflow-bundle": "*",
+        "vespolina/ecommerce-flows-bundle": "*",
+        "vespolina/monetary-bundle": "*"
+    }
+}
