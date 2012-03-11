@@ -26,8 +26,6 @@
         "vespolina/taxation-bundle": "*",
         "vespolina/workflow-bundle": "*",
         "vespolina/ecommerce-flows-bundle": "*",
-        "vespolina/product-subscription-bundle": "*",
-        "vespolina/product-downloadable-bundle": "*",
         "vespolina/monetary-bundle": "*"
     }
 }
